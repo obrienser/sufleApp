@@ -1,2 +1,1 @@
-# sufleApp
-Sufle iOS App
+# Sufle iOS App
